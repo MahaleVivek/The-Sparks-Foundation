@@ -7,3 +7,5 @@ This model is a simple linear regression model, with two features, hours and sco
 Task 2: Prediction using Unsupervised Machine learning algorithm
 Objective - To perform Simple K-means clustering on Dataset given (iris) ideal number of clusters and represent it visually.
 clusters found =3
+
+Task 3- Exploratory Data Analysis of the dataset 'Superstore.csv' This code uses plotly and cufflinks for an interactive data analysis of the given csv file - 'SampleSuperstore.csv'
